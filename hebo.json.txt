@@ -1,0 +1,15 @@
+{
+  "emoji": ":laughing:",
+  "role": "Student",
+  "introduction": "I'm Bentao He. And I'm excited to learn about computer programming and code.",
+  "achievements": [
+      "Earn an A in this class.",
+      
+  ],
+  "links": {
+      "site": "LINK_TO_YOUR_WEBSITE",
+      "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
+      "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+      "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+  }
+}
